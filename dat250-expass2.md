@@ -6,8 +6,8 @@ The first few points in the installation went quite smoothly, but I encountered 
 >at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:54)
 >at de.vogella.jpa.simple.main.Main.main(Main.java:17)
  
-The problem got solved after downloading the maven repository and going from there. Here is the code from Experiement 2:
+The problem got solved after downloading the maven repository and going from there. Here is the code from Experiment 2:
 https://github.com/jonashaneborg/EXP2
 
-Here is a screenshot of the database tables that were created after doing Experiement 2:  
+Here is a screenshot of the database tables that were created after doing Experiment 2:  
 https://imgur.com/a/4yooYYO
