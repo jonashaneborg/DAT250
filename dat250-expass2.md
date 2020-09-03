@@ -1,6 +1,6 @@
 ## Software Technology Experiment Assignment 2
 
-The first few points in the installation went quite smoothly, but I encountered some problems with Derby however. I especially had some difficulties with the following error:
+The first few points in the installation went quite smoothly, but I encountered some problems with Derby however. I especially had some difficulties with the following error:  
   Exception in thread "main" javax.persistence.PersistenceException: No Persistence provider for EntityManager named todo
     at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:84)
     at javax.persistence.Persistence.createEntityManagerFactory(Persistence.java:54)
