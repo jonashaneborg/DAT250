@@ -9,5 +9,5 @@ The first few points in the installation went quite smoothly, but I encountered 
 The problem got solved after downloading the maven repository and going from there. Here is the code from Experiement 2:
 https://github.com/jonashaneborg/EXP2
 
-Here is a screenshot of the database tables that were created after doing Experiement 2:
+Here is a screenshot of the database tables that were created after doing Experiement 2:  
 https://imgur.com/a/4yooYYO
