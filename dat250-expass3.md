@@ -8,7 +8,7 @@ Overall, the installation and experiements went quite smoothly. Validation of th
 Screenshots for experiement 1 and experiement 2:  
 https://drive.google.com/open?id=1ugodOiFhYP7SmyK_1Zq6NBhoE7bGNKAG 
 
-In my personal aggregation I found the total money spent on each item (sum of: quantity * price per purchase). This is useful for comparing how much revenue the different items are providing. By the collection obtained we can interpret that oranges are bringing in the most revenue, chocolates on a close second and carrots are performing the worst.  
+In my aggregation I found the total money spent on each item (sum of: quantity * price per purchase). This is useful for comparing how much revenue the different items are providing. By the collection obtained we can interpret that oranges are bringing in the most revenue, chocolates on a close second and carrots are performing the worst.  
 
 
 
