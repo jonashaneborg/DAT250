@@ -8,5 +8,7 @@ Overall, the installation and experiements went quite smoothly. Validation of th
 Screenshots for experiement 1 and experiement 2:  
 https://drive.google.com/open?id=1ugodOiFhYP7SmyK_1Zq6NBhoE7bGNKAG 
 
+In my personal aggregation the total money spent on each item (sum of quantity * price per purchase). This might be useful for comparing how much revenue the different items are providing.  
+
 
 
